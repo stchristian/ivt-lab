@@ -3,6 +3,7 @@ package hu.bme.mit.spaceship;
 /**
 * Defines basic spaceship functionality
 * (collects just the most important ones currently)
+* Júj ez a kommentecske branch-B ből van.
 */
 public interface SpaceShip {
 
