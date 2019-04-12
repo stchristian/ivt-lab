@@ -3,6 +3,7 @@ package hu.bme.mit.spaceship;
 /**
 * Defines basic spaceship functionality
 * (collects just the most important ones currently)
+* Hupsz egy kommentke :P
 */
 public interface SpaceShip {
 
