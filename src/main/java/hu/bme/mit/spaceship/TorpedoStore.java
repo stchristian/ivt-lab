@@ -28,6 +28,7 @@ public class TorpedoStore {
     }
   }
 
+  // Sacinak készülő kommentecske randomocska.
   private Random generator = new Random();
 
   public boolean fire(int numberOfTorpedos){
